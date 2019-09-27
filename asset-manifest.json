@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ShopAndLog/static/css/main.e04427b5.chunk.css",
-    "main.js": "/ShopAndLog/static/js/main.9e6882f9.chunk.js",
-    "main.js.map": "/ShopAndLog/static/js/main.9e6882f9.chunk.js.map",
+    "main.js": "/ShopAndLog/static/js/main.0a6c09bc.chunk.js",
+    "main.js.map": "/ShopAndLog/static/js/main.0a6c09bc.chunk.js.map",
     "runtime-main.js": "/ShopAndLog/static/js/runtime-main.00378ea4.js",
     "runtime-main.js.map": "/ShopAndLog/static/js/runtime-main.00378ea4.js.map",
     "static/js/2.15018151.chunk.js": "/ShopAndLog/static/js/2.15018151.chunk.js",
     "static/js/2.15018151.chunk.js.map": "/ShopAndLog/static/js/2.15018151.chunk.js.map",
     "index.html": "/ShopAndLog/index.html",
-    "precache-manifest.bc1faf31fbd31913936a5e4df0032a9b.js": "/ShopAndLog/precache-manifest.bc1faf31fbd31913936a5e4df0032a9b.js",
+    "precache-manifest.76cac7934e1a0eb33183e6c2ec8376f1.js": "/ShopAndLog/precache-manifest.76cac7934e1a0eb33183e6c2ec8376f1.js",
     "service-worker.js": "/ShopAndLog/service-worker.js",
     "static/css/main.e04427b5.chunk.css.map": "/ShopAndLog/static/css/main.e04427b5.chunk.css.map"
   }
