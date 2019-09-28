@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ShopAndLog/static/css/main.e04427b5.chunk.css",
-    "main.js": "/ShopAndLog/static/js/main.0c43af13.chunk.js",
-    "main.js.map": "/ShopAndLog/static/js/main.0c43af13.chunk.js.map",
+    "main.js": "/ShopAndLog/static/js/main.f6e44562.chunk.js",
+    "main.js.map": "/ShopAndLog/static/js/main.f6e44562.chunk.js.map",
     "runtime-main.js": "/ShopAndLog/static/js/runtime-main.8757c085.js",
     "runtime-main.js.map": "/ShopAndLog/static/js/runtime-main.8757c085.js.map",
-    "static/js/2.4ce623da.chunk.js": "/ShopAndLog/static/js/2.4ce623da.chunk.js",
-    "static/js/2.4ce623da.chunk.js.map": "/ShopAndLog/static/js/2.4ce623da.chunk.js.map",
+    "static/js/2.9dfbaf78.chunk.js": "/ShopAndLog/static/js/2.9dfbaf78.chunk.js",
+    "static/js/2.9dfbaf78.chunk.js.map": "/ShopAndLog/static/js/2.9dfbaf78.chunk.js.map",
     "index.html": "/ShopAndLog/index.html",
-    "precache-manifest.599376180a9288f7472339a72f5c8311.js": "/ShopAndLog/precache-manifest.599376180a9288f7472339a72f5c8311.js",
+    "precache-manifest.2788f2a05135315369059cda765915c9.js": "/ShopAndLog/precache-manifest.2788f2a05135315369059cda765915c9.js",
     "service-worker.js": "/ShopAndLog/service-worker.js",
     "static/css/main.e04427b5.chunk.css.map": "/ShopAndLog/static/css/main.e04427b5.chunk.css.map"
   }
